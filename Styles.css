@@ -1,0 +1,72 @@
+@CHARSET "ISO-8859-1";
+body {
+    background-color: #ccf5f5;
+}
+
+#gameholder {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#title {
+    width: 600px;
+    height: 150px;
+    background-image:url("Images/penguin_title.png");
+}
+
+.penguin{
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+.penguin:hover{
+    cursor:pointer;
+}
+
+.penguin1 {
+    background-image:url("Images/mound_1.png");
+}
+
+.penguin2 {
+    background-image:url("Images/mound_2.png");
+}
+
+.penguin3 {
+    background-image:url("Images/mound_3.png");
+}
+
+.penguin4 {
+    background-image:url("Images/mound_4.png");
+}
+
+.penguin5 {
+    background-image:url("Images/mound_5.png");
+}
+
+.penguin6 {
+    background-image:url("Images/mound_6.png");
+}
+
+
+.penguin7 {
+    background-image:url("Images/mound_7.png");
+}
+
+.penguin8 {
+    background-image:url("Images/mound_8.png");
+}
+
+.yeti{
+	background-image:url("Images/mound_9.png");
+}
+
+.yeti:hover{
+	background-image:url("Images/mound_9_hover.png");	
+	cursor:pointer;
+}
+
+.yeti:active{
+	background-image:url("Images/yeti.png");	
+}
+
