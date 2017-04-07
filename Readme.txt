@@ -1,0 +1,1 @@
+This is a basic game to click all the penguins before the yeti.
